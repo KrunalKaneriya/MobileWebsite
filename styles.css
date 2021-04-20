@@ -243,7 +243,7 @@ footer {
 
 .bio-text {
   text-align: left;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-family: "Work Sans";
   padding: 0 3%;
 }
@@ -327,8 +327,7 @@ h2 {
   }
 
   .bio-text {
-    
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     padding: 0 5%;
   }
 
