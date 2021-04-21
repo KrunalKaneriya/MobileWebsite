@@ -260,7 +260,7 @@ h2 {
   h1,
   .bio-title {
     font-size: 2rem;
-    margin: 4% auto;
+    margin: 7% auto;
   }
 
   h2 {
@@ -283,6 +283,10 @@ h2 {
     width: 100%;
     flex-wrap: wrap;
     height: 100px;
+  }
+
+  .second-heading h2 {
+    margin:11% auto;
   }
 
   .top-heading {
